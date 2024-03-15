@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **201216@iiitt.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BmeNjXY5lNU_x1RsOa2ANngAtOM10Zs_/view](https://drive.google.com/file/d/1BmeNjXY5lNU_x1RsOa2ANngAtOM10Zs_/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shiva_siddipet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiva_siddipet" height="30" width="40" /></a>
